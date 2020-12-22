@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on My personal blog</title>
+    <link>http://example.org/tags/go/</link>
+    <description>Recent content in Go on My personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 26 Apr 2019 18:31:06 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why I made yet another sessions library in Go?</title>
+      <link>http://example.org/posts/why-simplesessions-library-in-go/</link>
+      <pubDate>Fri, 26 Apr 2019 18:31:06 +0530</pubDate>
+      
+      <guid>http://example.org/posts/why-simplesessions-library-in-go/</guid>
+      <description>User session management is essential for any web app and it has been reinvented so many times yet recently I had to write my own session library for Go.</description>
+    </item>
+    
+  </channel>
+</rss>
